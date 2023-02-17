@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 /**
@@ -21,4 +22,4 @@ __asm__ ("syscall"
 "d" (l));
 return (1);
 }
-			       
+
