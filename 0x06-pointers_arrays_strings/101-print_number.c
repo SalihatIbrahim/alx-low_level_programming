@@ -33,4 +33,3 @@ void print_number(int n)
 		pow /= 10;
 	}
 }
-
